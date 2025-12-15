@@ -22,7 +22,7 @@ Im a former ASL interpreter with 10+ years of experience translating complex, te
 
 # Contact
 
--Website: [technologytranslate.com] 
+-Website: [technologytranslate.com] (https://technologytranslate.com)
 -LinkedIn: [https://www.linkedin.com/in/bea-yeager-5a506739b/]
 -Email: beayeager1@gmail.com
 
