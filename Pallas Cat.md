@@ -3,7 +3,7 @@
 <div id="introduction"> 
 <h2>About</h2>
     <p>The Pallas's Cat, <em>(Otocolobus maul)</em> is named after Peter Simon Pallas, in 1776. They are a small, wild cat that is found primarily in Mongolia and Central Asia.</p>
-<h3>Features</h3>
+<h2>Features</h2>
     <p> The fur of the Pallas's Cat is very dense, almost a plush texture, and their ears are small, rounded, and set low on the sides of their heads. They are the size of the average domestic cat, 46-65cm (18-26 inches) with a long tail that often has seven black rings and a black tip. Their body is stocky and because their fur is so dense, they give the appearance of being a chonk.</p>
   </div>
   <div id="Habitat">
